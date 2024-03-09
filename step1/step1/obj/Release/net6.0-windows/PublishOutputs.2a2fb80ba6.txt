@@ -1,0 +1,5 @@
+C:\Users\Saad Nizami\Desktop\serverside\step1.exe
+C:\Users\Saad Nizami\Desktop\serverside\step1.dll
+C:\Users\Saad Nizami\Desktop\serverside\step1.deps.json
+C:\Users\Saad Nizami\Desktop\serverside\step1.runtimeconfig.json
+C:\Users\Saad Nizami\Desktop\serverside\step1.pdb

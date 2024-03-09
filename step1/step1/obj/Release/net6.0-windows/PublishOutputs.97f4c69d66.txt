@@ -1,0 +1,5 @@
+C:\Users\Saad Nizami\Desktop\wokring\step1.exe
+C:\Users\Saad Nizami\Desktop\wokring\step1.dll
+C:\Users\Saad Nizami\Desktop\wokring\step1.deps.json
+C:\Users\Saad Nizami\Desktop\wokring\step1.runtimeconfig.json
+C:\Users\Saad Nizami\Desktop\wokring\step1.pdb

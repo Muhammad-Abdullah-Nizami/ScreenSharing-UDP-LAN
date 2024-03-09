@@ -1,0 +1,16 @@
+C:\Users\Saad Nizami\source\repos\step1\step1\bin\Release\net6.0-windows\step1.exe
+C:\Users\Saad Nizami\source\repos\step1\step1\bin\Release\net6.0-windows\step1.deps.json
+C:\Users\Saad Nizami\source\repos\step1\step1\bin\Release\net6.0-windows\step1.runtimeconfig.json
+C:\Users\Saad Nizami\source\repos\step1\step1\bin\Release\net6.0-windows\step1.dll
+C:\Users\Saad Nizami\source\repos\step1\step1\bin\Release\net6.0-windows\step1.pdb
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.Form1.resources
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.csproj.GenerateResource.cache
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.AssemblyInfoInputs.cache
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.AssemblyInfo.cs
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.csproj.CoreCompileInputs.cache
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.dll
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\refint\step1.dll
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.pdb
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\step1.genruntimeconfig.cache
+C:\Users\Saad Nizami\source\repos\step1\step1\obj\Release\net6.0-windows\ref\step1.dll

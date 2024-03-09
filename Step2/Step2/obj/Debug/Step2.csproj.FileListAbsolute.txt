@@ -1,0 +1,9 @@
+C:\Users\Saad Nizami\source\repos\Step2\Step2\bin\Debug\Step2.exe.config
+C:\Users\Saad Nizami\source\repos\Step2\Step2\bin\Debug\Step2.exe
+C:\Users\Saad Nizami\source\repos\Step2\Step2\bin\Debug\Step2.pdb
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.csproj.AssemblyReference.cache
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.Properties.Resources.resources
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.csproj.GenerateResource.cache
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.csproj.CoreCompileInputs.cache
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.exe
+C:\Users\Saad Nizami\source\repos\Step2\Step2\obj\Debug\Step2.pdb
